@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/1b5d326e8b7649c006d3ad817188370a/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

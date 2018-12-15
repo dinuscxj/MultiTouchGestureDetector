@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

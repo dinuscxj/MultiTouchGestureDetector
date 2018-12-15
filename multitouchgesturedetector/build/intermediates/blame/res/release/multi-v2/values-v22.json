@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/res/merged/release/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/dinus/Documents/opensource/MultiTouchGestureDetector/multitouchgesturedetector/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/dinus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f9672454622e88324e10ee37d2316f2a/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}
